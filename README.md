@@ -1,8 +1,3 @@
-Here’s a **professional, submission‑ready `README.md`** for your IDR website project.  
-You can paste it as-is into a file named **`README.md`** at the project root.
-
-***
-
 # Institute of Digital Risk (IDR) — Website Submission
 
 A responsive, single‑page website and brand identity for the **Institute of Digital Risk (IDR)**.  
